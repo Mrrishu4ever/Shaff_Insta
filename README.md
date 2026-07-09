@@ -1,22 +1,17 @@
-# 📸 Shaff Insta
+# Shaff Insta
 
-A minimalist, responsive web interface built to showcase modern frontend design.
+A clean and responsive web interface designed for showcasing modern UI layouts. 
 
-## 🚀 Live Demo
-
-Check out the live deployment here:  
-🔗 **[shaff-insta.vercel.app](https://shaff-insta.vercel.app)**
+## 🚀 Live Link
+View the live project here: [shafiya-portfolio-delta.vercel.app](https://shafiya-portfolio-delta.vercel.app)
 
 ---
 
-## 🛠️ Tech Stack
-
+## 🛠️ Stack
 * **Frontend:** HTML5, CSS3, JavaScript
-* **Deployment:** Vercel
+* **Hosting:** Vercel
 
-## 💻 Local Setup
-
-If you want to run this project locally, follow these steps:
+## 💻 Running Locally
 
 1. Clone the repository:
    ```bash
