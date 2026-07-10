@@ -14,5 +14,7 @@ View the live project here: [shaff-insta.vercel.app](https://shaff-insta.vercel.
 ## 💻 Running Locally
 
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/Shaff_Insta.git](https://github.com/YOUR_USERNAME/Shaff_Insta.git)
+```bash
+   git clone https://github.com/Mrrishu4ever/Shaff_Insta.git
+```
+2. Open `index.html` in your browser.
